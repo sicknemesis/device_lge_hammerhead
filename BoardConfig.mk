@@ -14,6 +14,7 @@
 # limitations under the License.
 #
 
+LIQUIFY=true
 TARGET_CPU_ABI := armeabi-v7a
 TARGET_CPU_ABI2 := armeabi
 TARGET_CPU_SMP := true
